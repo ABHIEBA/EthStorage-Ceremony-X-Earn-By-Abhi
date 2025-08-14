@@ -103,3 +103,12 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 - Done! 🎉 You have successfully contributed to the EthStorage V1 Trusted Setup Ceremony.
 
 ---
+🟢 That’s it!
+
+---
+---
+
+📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
+
+
+
