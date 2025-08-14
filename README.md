@@ -71,6 +71,11 @@ phase2cli auth
 
 ### 8️⃣ Contribute to the Ceremony
 
+# Open Screen ( VPS Users )
+```
+screen -S ceremony
+```
+
 ```
 phase2cli contribute -c ethstorage-v1-trusted-setup-ceremony
 ```
