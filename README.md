@@ -91,6 +91,10 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 
 ---
 
+### 🖥 Screen Session Controls
+- Detach: CTRL + A, then D  
+- Reattach: `screen -r ceremony`
+
 ## 💡 Pro Tips
 
  **Destroy VPS after participation for maximum security**
@@ -105,7 +109,6 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 ---
 🟢 That’s it!
 
----
 ---
 
 📢 **JOIN TG FOR UPDATES**: [t.me/EarnByAbhi23](https://t.me/EarnByAbhi23)
