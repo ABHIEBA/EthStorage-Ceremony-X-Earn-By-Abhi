@@ -89,15 +89,6 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 
 ## 💡 Pro Tips
 
-1. **Run commands inside a `screen` session so contribution continues if you disconnect:**
-
-
-apt install -y screen
-screen -S ceremony
-# Run all commands inside here
-# Detach with: CTRL + A then D
-# Reattach with: screen -r ceremony
-
  **Destroy VPS after participation for maximum security**
 
 ---
@@ -105,8 +96,3 @@ screen -S ceremony
 ✅ **You have successfully contributed to the EthStorage V1 Trusted Setup Ceremony!**
 
 ---
-
-Ye format GitHub pe perfect lagega — commands copy-paste friendly hain, headings clear hain, aur screen ka tip bhi added hai taaki disconnect hone ka issue na ho.  
-
-Agar tum chaGitHub-flavored clickable "Copy" button "Copy" button** वाला HTML + Markdown mix version bhi bana sakta hoon jo aur premium lage.
-`
