@@ -71,7 +71,6 @@ phase2cli auth
 
 ### 8️⃣ Contribute to the Ceremony
 
-# Open Screen ( VPS Users )
 ```
 screen -S ceremony
 ```
@@ -98,6 +97,9 @@ cd ~ && rm -rf ~/trusted-setup-tmp
 
 ---
 
-✅ **You have successfully contributed to the EthStorage V1 Trusted Setup Ceremony!**
+## ✅ Final Step
+- Once all commands are run, wait for your queue.  
+- When your turn comes, the tool will process your contribution.  
+- Done! 🎉 You have successfully contributed to the EthStorage V1 Trusted Setup Ceremony.
 
 ---
